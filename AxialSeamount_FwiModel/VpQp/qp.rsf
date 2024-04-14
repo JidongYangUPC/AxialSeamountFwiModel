@@ -1,0 +1,15 @@
+2.1-git	sfspike	data/Axial_seamount/velocity:	jxy160930@dhcp-10-200-50-50	Sun Dec 29 11:44:04 2019
+
+	d2=12.5
+	o1=1300
+	n2=2656
+	o2=-1.9688e+04
+	label1="Depth"
+	data_format="native_float"
+	label2="Distance"
+	esize=4
+	in="./vp.rsf@"
+	unit1="m"
+	unit2="m"
+	d1=12.5
+	n1=250
