@@ -6,5 +6,8 @@ The topography and the identified magma reservoirs are shown in the following fi
 ![plot](./3d_new_modified.png)
 
 
+\\
+
 The FWI P-wave velocity and attenuation models are shown in the following figure:
+
 ![plot](./model.png)
